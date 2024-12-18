@@ -20,7 +20,7 @@ I’m passionate about advocating for robust security practices, and love connec
 - [LinkedIn](https://linkedin.com/in/sanyaoluagbetan/)
 - [GitHub](https://github.com/justin-s85)
 
-![About Image](https://via.placeholder.com/600x400) <!-- Replace with a relevant image -->
+![About Image](https://media.licdn.com/dms/image/v2/D5603AQGshsrYbDLLqQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708805632392?e=1740009600&v=beta&t=8_qApec92L6mHwONRcwNTVQpNh0RnpnPTCdEgB4IT6k) <!-- Replace with a relevant image -->
 
 
 [jekyll-organization]: https://github.com/jekyll
