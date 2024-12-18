@@ -4,17 +4,15 @@ title: "About"
 permalink: /about/
 ---
 
-# About This Blog
-
-Welcome to **[Your Blog Title]**!  
-Here, I share insightful posts on topics like **[topics covered]** to inspire, educate, and engage readers.
+Welcome to **ThreatTalk**!  
+Here, I share insightful posts on topics like **Vulnerability management, product security lifecycle, secure coding, threat modeling etc.** to inspire, educate, and engage readers.
 
 ---
 
 ## About Me
 
-Hi, I’m **[Your Name]**, a [short description about your expertise].  
-I’m passionate about [your passions] and love connecting with people who share similar interests.
+Hi, I’m **Justin S.A.**, a seasoned expert in product security, with extensive experience in securing digital infrastructures and driving innovative security strategies.  
+I’m passionate about advocating for robust security practices, and love connecting with people who share similar interests.
 
 ---
 
