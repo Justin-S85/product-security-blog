@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Welcome to **ThreatTalk**!  
-Here, I share insightful posts on topics like **Vulnerability management, product security lifecycle, secure coding, threat modeling etc.** to inspire, educate, and engage readers.
+Here, I share insightful posts on topics like **Vulnerability management, Compliance lifecycle management, secure coding, threat modeling, DevSecOps Culture Transformation etc.** to inspire, educate, and engage readers.
 
 ---
 
