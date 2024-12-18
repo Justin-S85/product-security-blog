@@ -1,7 +1,7 @@
 # Site Information
-title: "Your Blog Title"
-description: "A hub for insightful posts on product security."
-author: "Your Name"
+title: "ThreatTalk"
+description: "A hub for insightful blog posts on products and everything information security."
+author: "Justin S.A"
 url: "justin-s85.github.io/product-security-blog"
 baseurl: "" # Leave blank unless your site is hosted in a subdirectory.
 
