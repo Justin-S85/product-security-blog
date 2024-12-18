@@ -21,6 +21,6 @@ Stay updated by following me on:
 - [Twitter](https://twitter.com/yourhandle)
 - [LinkedIn](https://linkedin.com/in/yourprofile)
 
-![Home Image](https://via.placeholder.com/1200x400) <!-- Replace with a homepage banner -->
+![Home Image](https://unsplash.com/photos/a-padlock-with-a-padlock-on-it-and-a-padlock-in-the-middle-9dvb7vm6IS4) <!-- Replace with a homepage banner -->
 
 
