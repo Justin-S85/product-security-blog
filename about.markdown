@@ -11,8 +11,7 @@ Here, I share insightful posts on topics like **Vulnerability management, Compli
 
 ## My Passion
 
-Hi, I’m **Justin S.A.**, a seasoned expert in product security, with extensive experience in securing digital infrastructures and driving innovative security strategies.  
-I’m passionate about advocating for robust security practices, and love connecting with people who share similar interests.
+Hi, I’m **Justin S.A.**, a seasoned expert in product security, with extensive experience in securing digital infrastructures and driving innovative security strategies. I’m passionate about advocating for robust security practices, and love connecting with people who share similar interests.
 
 ---
 
