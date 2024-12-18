@@ -21,6 +21,6 @@ Stay updated by following me on:
 - [Twitter](https://twitter.com/yourhandle)
 - [LinkedIn](https://linkedin.com/in/yourprofile)
 
-![Home Image](https://unsplash.com/photos/a-padlock-with-a-padlock-on-it-and-a-padlock-in-the-middle-9dvb7vm6IS4) <!-- Replace with a homepage banner -->
+![Home Image](https://files.oaiusercontent.com/file-1HC8BWfscJH1cKNZLFzZya?se=2024-12-18T22%3A43%3A11Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dfe9d5d78-23cf-46ad-b233-e2262c1e8e99.webp&sig=WfvcMRd96nO/D3sj2hPPSDbyW8iJwCtUY7q/DidO2PQ%3D) <!-- Replace with a homepage banner -->
 
 
