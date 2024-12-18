@@ -4,6 +4,9 @@
 
 layout: home
 ---
-# Welcome to My Blog!
+<section>
+  <h1>About Product Security Blog</h1>
+  <p>Welcome to the Product Security Blog! Here, we explore the critical role of security in product development. From DevSecOps practices to compliance with industry standards, this blog provides insights, best practices, and emerging trends to help you build secure, reliable, and innovative products.</p>
+  <p>Whether you’re a seasoned professional or just curious about product security, there’s something here for everyone.</p>
+</section>
 
-This is my first blog post. Stay tuned for more content.
