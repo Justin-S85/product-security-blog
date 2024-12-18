@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# Welcome to My Blog!
+
+This is my first blog post. Stay tuned for more content.
