@@ -8,10 +8,7 @@ Welcome to ThreatTalk! Here, we explore the critical role of security in product
 
 ---
 
-## Latest Posts
-{% for post in paginator.posts %}
-- [{{ post.title }}]({{ post.url }}) - *{{ post.date | date: "%B %d, %Y" }}*
-{% endfor %}
+
 
 ---
 
