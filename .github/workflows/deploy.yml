@@ -3,27 +3,28 @@ name: Deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - master  # Trigger this workflow only when you push to the master branch
+      - master  # Trigger on push to master branch
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Runs on a Linux environment
+    runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Set up Ruby
+    # Add this step to install Ruby 3.1
+    - name: Set up Ruby (version 3.1 or higher)
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.7
+        ruby-version: '3.1'  # Use Ruby 3.1
 
     - name: Install dependencies
       run: |
         gem install bundler
         bundle install
 
-    - name: Build the Jekyll site
+    - name: Build the site with Jekyll
       run: |
         bundle exec jekyll build
 
@@ -31,4 +32,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_site  # The directory containing the built site
+        publish_dir: ./_site
